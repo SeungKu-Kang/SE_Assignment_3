@@ -1,0 +1,15 @@
+# Build artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# Test/Output Data (입력 데이터인 input.txt는 추적하되, 실행 결과물은 제외)
+output.txt
+
+# IDE / OS 특정 파일
+.vs/
+*.user
+.DS_Store
